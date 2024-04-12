@@ -1,0 +1,209 @@
+{
+    "english": {
+        "menu": {
+            "topTitle": "Wedding",
+            "home": "Home",
+            "events": "Events",
+            "location": "Location",
+            "tamil":"மொழியை தேர்வு செய்யவும்",
+            "english":"choose language"
+        },
+        "hederSection": {
+            "groomName": "Janarthanam",
+            "brideName": "Saranya",
+            "content": "We Are Getting Married",
+            "saveTheDate": "Save the date"
+        },
+        "coupleContiner": {
+            "title1": "Hello!",
+            "title2": "April 21st, 2024 Krishnapuram,  Thiruvannamalai!",
+            "title3": "We invited you to celebrate our wedding",
+            "groom": {
+                "name": "S. Janardhanam, D.EEE",
+                "content": "Join us in celebrating the love story of S. Janarthanam and V. Saranya, showered with the blessings of Lord Sri Murugan, as they embark on a new chapter filled with love, joy, and endless happiness!"
+            },
+            "bride": {
+                "name": "V. Saranya, BSc (Nursing)",
+                "content": "With immense joy and blessings from Lord Sri Murugan, we joyfully announce the union of our beloved daughter, V. Saranya, BSc (Nursing), with S. Janarthanam, D.EEE. Your presence will add to the joy of this special occasion."
+            }
+        },
+        "eventContiner": {
+            "title1": "Our Special Events",
+            "title2": "Wedding Events",
+            "event1": {
+                "eventName": "Wedding Invitation",
+                "fromTime": "07:00 PM ",
+                "toTime": "08:00 PM",
+                "dateDay": "Saturday 20",
+                "monthYear": "April, 2024",
+                "description": "Join us in witnessing the magic of love and unity, surrounded by the warmth of family and friends. Your presence will add joy and blessings to this auspicious occasion of love and commitment.Love, laughter, and cherished memories await as we unite in the celebration of eternal love and lifelong companionship."
+            },
+            "event2": {
+                "eventName": "Musical Concert",
+                "fromTime": "08:00 PM",
+                "toTime": "10:00 PM",
+                "dateDay": "Saturday 20",
+                "monthYear": "April, 2024",
+                "description": "Let the melodies of love and harmony fill the air as we invite you to a mesmerizing Musical Concert.Join us on this enchanting evening of Saturday, April 20, 2024, at the splendid V. Vasantha Mahal in Arani. Get ready to be captivated by soul-stirring tunes, rhythmic beats, and a night filled with musical magic. Your presence will make this musical journey even more delightful!."
+            },
+            "event3": {
+                "eventName": "Wedding Reception",
+                "fromTime": "08:00 PM",
+                "toTime": "10:00 PM",
+                "dateDay": "Saturday 20",
+                "monthYear": "April, 2024",
+                "description": "We cordially invite you to share in the joy and celebration of [Couple's Names] at their wedding reception on Saturday, April 20, 2024, at V. Vasantha Mahal in Arani. The evening promises delightful moments, heartfelt toasts, and dancing under the stars. Your presence will make this celebration complete!."
+            },
+            "event4": {
+                "eventName": "Wedding Rituals",
+                "fromTime": "06:00 AM",
+                "toTime": "07:30 AM",
+                "dateDay": "Sunday 21",
+                "monthYear": "April, 2024",
+                "description": "Embrace the auspicious morning of Sunday, April 21, 2024, as we gather at V. Vasantha Mahal in Arani for the sacred wedding rituals of [Couple's Names]. Join us in this divine ceremony filled with blessings, love, and the start of a beautiful journey together. Your presence will add to the joy and blessings of this sacred occasion."
+            }
+        },
+        "galleryContiner": {
+            "title1": "Our Memories",
+            "title2": "Wedding Gallery",
+            "title3": "Explore our wedding gallery and relive the magical moments that marked the beginning of our forever. From the laughter to the tears of joy, our memories are a testament to the love we share.",
+            "quotes1": "A moment of blissful connection",
+            "quotes2": "Genuine laughter between the couple",
+            "quotes3": "A shared gaze full of affection and warmth",
+            "quotes4": " Reflecting the beauty of togetherness and happiness",
+            "quotes5": "Embracing love in a tender moment",
+            "quotes6": "Expressing closeness and connection in a candid moment"
+
+        },
+        "testimonialContiner": {
+            "title1": "Best Wishes",
+            "title2": "Wishes from Siblings",
+            "testimonial1": {
+                "name": "S.Jaganathan, MCA",
+                "designation": "Senior software engineer",
+                "content": "We extend our heartfelt wishes to the lovely couple as they embark on this beautiful journey of love and togetherness. May your love story be filled with joy, laughter, and endless happiness. Wishing you both a lifetime of love and companionship."
+            },
+            "testimonial2": {
+                "name": "Sisters",
+                "designation": "",
+                "content": "Love is composed of a single soul inhabiting two bodies .b May your journey together be filled with love, laughter, and cherished moments. Wishing you a lifetime of happiness and togetherness."
+            }
+        },
+        "footerContiner": {
+            "content": "Love is not just about finding the right person, but creating a life of happiness and bliss together."
+
+        },
+        "contactContiner": {
+            "title1": "Contact Information",
+            "title2": "Vanthavasi to arni road ",
+            "contactInformation": {
+                "title1": "V . Vasantha Mahal, kirushnapuram",
+                "title2": "Vanthavasi to arni road"
+            }
+        }
+    },
+    "tamil": {
+        "menu": {
+            "topTitle": "திருமணம்",
+            "home": "",
+            "events": "நிகழ்வுகள்",
+            "location": "இடம்",
+            "tamil":"மொழியை தேர்வு செய்யவும்",
+            "english":"choose language"
+        },
+        "hederSection": {
+            "groomName": "ஜனார்த்தனம்",
+            "brideName": "சரண்யா",
+            "content": "எங்கள் திருமணம் நடக்கின்றது",
+            "saveTheDate": "தேதி சேமிக்கவும்"
+        },
+        "coupleContiner": {
+            "title1": "வணக்கம்!",
+            "title2": "2024 ஆப்ரல் 21ம் தேதி, கிருஷ்ணபுரம், திருவண்ணாமலை!",
+            "title3": "எங்கள் திருமணத்தை பரிசாக்க நீங்கள் அழைக்கப்பட்டுள்ளீர்கள்",
+            "groom": {
+                "name": "எஸ். ஜனார்த்தனம், பிளசி (EEE)",
+                "content": "நாங்கள் குருடர்கள் மற்றும் பிரியாணிகளாக பாரதிகள் என்று இன்னும் பல ஆண்டுகள் காதல், மகிழ்ச்சி மற்றும் நிரந்தர மகிழ்ச்சியுடன் நூலியாக தொடங்குகின்றனர்!"
+            },
+            "bride": {
+                "name": "வி. சரண்யா, பீ.எஸ் (நர்சிங்)",
+                "content": "மகிழ்ச்சியும் ஆசீர்வாதமும் அனைத்துலகமான இறைவன் ஸ்ரீ முருகனின் ஆசிர்வாதமாகப் பாரதிகள் வி. சரண்யா, பீ.எஸ் (நர்சிங்), எஸ். ஜனார்த்தனம், பிளசி (EEE) ஒன்றிணையத்தை மகிழ்ச்சியுடன் அறிவிக்கின்றனர். உங்கள் உள்ளமை இந்த சிறப்பு சந்திர உற்சாகம் சம்பந்திப்பதை கொண்டுவந்தால் அந்த சிறப்பு குறிப்புகளில் மூவரின் உள்ளமை இருக்கும்."
+            }
+        },
+        "eventContiner": {
+            "title1": "எங்கள் சிறப்பு நிகழ்வுகள்",
+            "title2": "திருமண நிகழ்வுகள்",
+            "event1": {
+                "eventName": "திருமண அழைப்பு",
+                "fromTime": "மாலை 07:00",
+                "toTime": "மாலை 08:00",
+                "dateDay": "சனிக்கிழமை 20",
+                "monthYear": "ஏப்ரல், 2024",
+                "description": "குடும்பம் மற்றும் நண்பர்களின் அருகில் சிறப்பான காதல் மற்றும் ஐக்கியத்தின் மந்திரத்தை கண்டிப்பதற்கு எங்களுடன் சேர்ந்து இருக்கவும். உங்கள் உள்ளமை இந்த பெருமையான காதல் மற்றும் உற்சாகமான நிகழ்ச்சியின் அனுபவத்தில் சேர்ந்துகொள்ளட்டும். அனைவரிடம் இந்த என்னையும் மகிழ்ச்சியாக்கும், அற்புதமான நிகழ்ச்சிகளின் அற்புத சேர்க்கை காதல் மற்றும் வாழ்க்கையின் விவாகாரத்தில் ஒருபோதும் சேர்க்கை அந்தந்த நகையாய் சேர்க்கை என்று காதல், சிரமம் மற்றும் நிகழ்வுகளின் உருவாகிய நான்!"
+            },
+            "event2": {
+                "eventName": "இசை காசியம்",
+                "fromTime": "மாலை 08:00",
+                "toTime": "மாலை 10:00",
+                "dateDay": "சனிக்கிழமை 20",
+                "monthYear": "ஏப்ரல், 2024",
+                "description": "காதலும் ஒருவர் நெறியில் உள்ளமையும் ஆனாலும் புகழும் உடைய நாளை இதயம் நிமிர்ந்த இசைக்காசியத்தின் மூலம் உலகில் உள்ள சந்தர்ப்பங்களில் பங்குச் சேரட்டும். சனிக்கிழமை, 2024 ஏப்ரல் 20ம் தேதியில், அரணியில் உள்ள அழகான வி. வஸந்தா மகளிர் மேலே இந்த மந்திரமான இரவில் எங்களுடைய நாளை மகிழ்ச்சியாக்கவும். நீங்கள் அந்த இசைக்காசிய சயமான இரவில் ஆகாதாரம் அடைய உள்ளீர்கள்!."
+            },
+            "event3": {
+                "eventName": "திருமண இவண்டுகள்",
+                "fromTime": "மாலை 08:00",
+                "toTime": "மாலை 10:00",
+                "dateDay": "சனிக்கிழமை 20",
+                "monthYear": "ஏப்ரல், 2024",
+                "description": "நீங்கள் எங்கள் திருமண இவண்டுகளின் சந்திர மற்றும் பகிர்ந்துகொள்ளும்போது சமர்ப்பண மற்றும் அற்புதமான மனைவி கடைசியை சந்திக்க உங்களைக் கோர்க்கின்றனர் அனைவருக்கும் இந்த ஆற்றல் கடைசியாக மகிழ்ச்சியான கொள்கைகள் அக்கறைகளுடன் மற்றும் நடுக்கமான காலங்களில் நடந்து கொண்டுள்ளன. உங்கள் உள்ளமை இந்த விருந்தணியான நிகழ்ச்சியை முடிவடைப்பதில் உள்ளமை அப்படமாகும்!."
+            },
+            "event4": {
+                "eventName": "திருமண ஆசிரியர்கள்",
+                "fromTime": "காலை 06:00",
+                "toTime": "காலை 07:30",
+                "dateDay": "ஞாயிறு 21",
+                "monthYear": "ஏப்ரல், 2024",
+                "description": "ஞாயிறு, ஏப்ரல் 21, 2024 அன்று மற்றும் திருவண்ணாமலையில் உள்ள வி. வஸந்தா மகளிரின் பவித்தமான திருமண ஆசிரியர்களாகவும் பாரதிகள். நீங்கள் இந்த தெய்வீக காரியத்தில் ஆசிர்வாதம், காதல் மற்றும் அழகிய பயணத்தின் துவக்கத்தில் உள்ளமை கூட்டம் பெற்றுக்கொள்ளும். உங்கள் உள்ளமை இந்த பவித்தமான விழாக்களில் மகிழ்ச்சி மற்றும் ஆசிர்வாதம் சேர்ந்து வளர்ச்சிப்படுகின்றன."
+            }
+        },
+        "galleryContiner": {
+            "title1": "எங்கள் நினைவுகள்",
+            "title2": "திருமண கேலரி",
+            "title3": "எங்கள் திருமணம் ஆரம்பியும் மாந்திரீகமான நிமித்தம் நினைவுகளை படைத்துக்கொள்ளுங்கள். சிரமங்கள் முதல் மகிழ்ச்சியை அடிப்படையாக உள்ளமையை நெருக்கிய முறைகளில் நமது நினைவுகள் எங்கள் பேராசைக்கு ஆதரவாக உள்ளன.",
+            "quotes1": "A moment of blissful connection",
+            "quotes2": "Genuine laughter between the couple",
+            "quotes3": "A shared gaze full of affection and warmth",
+            "quotes4": " Reflecting the beauty of togetherness and happiness",
+            "quotes5": "Embracing love in a tender moment",
+            "quotes6": "Expressing closeness and connection in a candid moment"
+        },
+        "testimonialContiner": {
+            "title1": "சிறந்த ஆசிர்வாதங்கள்",
+            "title2": "சகோதரர்களிடம் ஆசிர்வாதங்கள்",
+            "testimonial1": {
+                "name": "எஸ். ஜகனாதன், எம்சி.ஏ",
+                "designation": "மேம்பாட்டு மென்பொருள் பொறியாளர்",
+                "content": "நமது பிரியாணி கூடுதல் காதல் மற்றும் உற்சாகத்தின் இந்த அழகான பயணத்தில் தேர்வு செய்வதில் எங்கள் உள்ளமை முக்கியமாக உள்ளது. உங்கள் காதல் கதை மகிழ்ச்சி, சிரமம், மற்றும் இன்னும் நிரந்தர மகிழ்ச்சி நினைவாக அமையும். நீங்கள் இருவருக்கும் ஒரு உடனடியாக மகிழ்ச்சி மற்றும் பகிர்ந்துகொள்ளும் வாழ்க்கையை ஆசிர்வாதம் செய்கின்றனர்."
+            },
+            "testimonial2": {
+                "name": "சகோதரர்கள்",
+                "designation": " ",
+                "content": "காதல் ஒற்றை ஆனது இரண்டு உடற்களையும் ஆவணம் செய்கின்றது. உங்கள் கூட்டு பயணம் காதல், சிரமம், மற்றும் மகிழ்ச்சியான நிகழ்வுகள் நிரந்தர மகிழ்ச்சி மற்றும் உடைய காலையில் மகிழ்ச்சி நெருங்கினது. உங்களுக்கு வாழ்க்கை மற்றும் உற்சாகமான நிறையான காதல் உண்மையாக இருக்கும்."
+            }
+
+        },
+        "footerContiner": {
+            "content": "காதல் எற்றையானது ஒரு சரியான நபரைக் கண்டுபிடிக்கும் போது மட்டுமே அல்ல, பகிர்ந்துகொள்ளும் இன்பம் மற்றும் சந்தோஷத்தின் ஒரு வாழ்க்கையை உருவாக்குகின்றது."
+        },
+        "contactContiner": {
+            "title1": "வி. வஸந்தா மகள்",
+            "title2": "வண்டவாசி முதல் அரணியில் அரணியில், கிருஷ்ணபுரம்",
+            "contactInformation": {
+                "title1": "contactInformation",
+                "title2": "வி. வஸந்தா மகள்",
+                "title3": "வண்டவாசி முதல் அரணியில் அரணியில், கிருஷ்ணபுரம்"
+            }
+        }
+
+    }
+}
