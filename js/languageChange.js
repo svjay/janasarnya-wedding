@@ -89,7 +89,7 @@ var language = {
                 "content": "Here's to wishing my brother a lifetime of love and happiness in his marriage, where he can leave behind life's struggles and embrace the abundance of love and joy from his partner."
             },
             "testimonial3": {
-                "name": "V. Saranya, B.Sc",
+                "name": "V.Lavbooma, B.SC",
                 "designation": "Sister of Bride",
                 "content": "Here's to wishing my sister a lifetime of love and happiness in his marriage, where she can leave behind life's struggles and embrace the abundance of love and joy from her partner."
             }
