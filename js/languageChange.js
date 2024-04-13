@@ -44,7 +44,7 @@ var language = {
                 "toTime": "10:00 PM",
                 "dateDay": "Saturday 20",
                 "monthYear": "April, 2024",
-                "description": "Let the melodies of love and harmony fill the air as we invite you to a mesmerizing Musical Concert. Join us on this enchanting evening of Saturday, April 20, 2024, at the splendid V. Vasantha Mahal in Arani. Get ready to be captivated by soul-stirring tunes, rhythmic beats, and a night filled with musical magic. Your presence will make this musical journey even more delightful!."
+                "description": "Let the melodies of love and harmony fill the air as we invite you to a mesmerizing Musical Concert. Join us on this enchanting evening of Saturday, April 20, 2024, at the splendid V. Vasantha Mahal in Krishnapuram. Get ready to be captivated by soul-stirring tunes, rhythmic beats, and a night filled with musical magic. Your presence will make this musical journey even more delightful!."
             },
             "event3": {
                 "eventName": "Wedding Reception",
@@ -52,7 +52,7 @@ var language = {
                 "toTime": "10:00 PM",
                 "dateDay": "Saturday 20",
                 "monthYear": "April, 2024",
-                "description": "Embrace the joyous rhythm of love at our wedding reception on Saturday, April 20, 2024, held at the majestic V. Vasantha Mahal in Arani. Join us as we toast to new beginnings, surrounded by the warmth of family and friends, in a night filled with laughter, music, and love."
+                "description": "Embrace the joyous rhythm of love at our wedding reception on Saturday, April 20, 2024, held at the majestic V. Vasantha Mahal in Krishnapuram. Join us as we toast to new beginnings, surrounded by the warmth of family and friends, in a night filled with laughter, music, and love."
             },
             "event4": {
                 "eventName": "Wedding Knot",
@@ -60,7 +60,7 @@ var language = {
                 "toTime": "07:30 AM",
                 "dateDay": "Sunday 21",
                 "monthYear": "April, 2024",
-                "description": "Mark your calendars for a joyous union as we tie the knot on Saturday, April 21, 2024, at the magnificent V. Vasantha Mahal in Arani. Let's create unforgettable moments surrounded by the splendor of our chosen venue. Your presence will make our special day complete."
+                "description": "Mark your calendars for a joyous union as we tie the knot on Saturday, April 21, 2024, at the magnificent V. Vasantha Mahal in Krishnapuram. Let's create unforgettable moments surrounded by the splendor of our chosen venue. Your presence will make our special day complete."
             }
         },
         "galleryContiner": {
